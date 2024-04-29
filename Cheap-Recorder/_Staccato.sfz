@@ -1,0 +1,46 @@
+<group>
+
+ampeg_release=2
+seq_length=3
+
+<region> sample=Recorder_074_rr1.wav lokey=72 hikey=74 pitch_keycenter=74 seq_position=1
+<region> sample=Recorder_074_rr2.wav lokey=72 hikey=74 pitch_keycenter=74 seq_position=2
+<region> sample=Recorder_074_rr3.wav lokey=72 hikey=74 pitch_keycenter=74 seq_position=3
+
+<region> sample=Recorder_075_rr1.wav key=75 seq_position=1
+<region> sample=Recorder_075_rr2.wav key=75 seq_position=2
+<region> sample=Recorder_075_rr3.wav key=75 seq_position=3
+
+<region> sample=Recorder_076_rr1.wav key=76 seq_position=1
+<region> sample=Recorder_076_rr2.wav key=76 seq_position=2
+<region> sample=Recorder_076_rr3.wav key=76 seq_position=3
+
+<region> sample=Recorder_077_rr1.wav key=77 seq_position=1
+<region> sample=Recorder_077_rr2.wav key=77 seq_position=2
+<region> sample=Recorder_077_rr3.wav key=77 seq_position=3
+
+<region> sample=Recorder_078_rr1.wav key=78 seq_position=1
+<region> sample=Recorder_078_rr2.wav key=78 seq_position=2
+<region> sample=Recorder_078_rr3.wav key=78 seq_position=3
+
+<region> sample=Recorder_079_rr1.wav key=79 seq_position=1
+<region> sample=Recorder_079_rr2.wav key=79 seq_position=2
+<region> sample=Recorder_079_rr3.wav key=79 seq_position=3
+
+<region> sample=Recorder_080_rr1.wav key=80 seq_position=1
+<region> sample=Recorder_080_rr2.wav key=80 seq_position=2
+<region> sample=Recorder_080_rr3.wav key=80 seq_position=3
+
+<region> sample=Recorder_081_rr1.wav key=81 seq_position=1  
+<region> sample=Recorder_081_rr2.wav key=81 seq_position=2  
+<region> sample=Recorder_081_rr3.wav key=81 seq_position=3  
+
+<region> sample=Recorder_084_rr1.wav hikey=84 lokey=82 pitch_keycenter=84 seq_position=1
+<region> sample=Recorder_084_rr2.wav hikey=84 lokey=82 pitch_keycenter=84 seq_position=2
+<region> sample=Recorder_084_rr3.wav hikey=84 lokey=82 pitch_keycenter=84 seq_position=3
+
+<region> sample=Recorder_086_rr1.wav lokey=85 hikey=88 pitch_keycenter=86 seq_position=1
+<region> sample=Recorder_086_rr2.wav lokey=85 hikey=88 pitch_keycenter=86 seq_position=2
+<region> sample=Recorder_086_rr3.wav lokey=85 hikey=88 pitch_keycenter=86 seq_position=3
+
+//Sola scriptura, Sola fide, Sola gratia, Solo Christo, Soli Deo gloria

@@ -1,0 +1,64 @@
+
+<control>
+
+<global>
+
+<group>
+
+  ampeg_release=0.5
+
+
+<region> sample=D-1.wav lokey=67 hikey=74 pitch_keycenter=74 seq_length=4 seq_position=1
+<region> sample=D-2.wav lokey=67 hikey=74 pitch_keycenter=74 seq_length=4 seq_position=2
+<region> sample=D-3.wav lokey=67 hikey=74 pitch_keycenter=74 seq_length=4 seq_position=3
+<region> sample=D-4.wav lokey=67 hikey=74 pitch_keycenter=74 seq_length=4 seq_position=4
+
+<region> sample=E-1.wav lokey=75 hikey=76 pitch_keycenter=76 seq_length=4 seq_position=1
+<region> sample=E-2.wav lokey=75 hikey=76 pitch_keycenter=76 seq_length=4 seq_position=2
+<region> sample=E-3.wav lokey=75 hikey=76 pitch_keycenter=76 seq_length=4 seq_position=3
+<region> sample=E-4.wav lokey=75 hikey=76 pitch_keycenter=76 seq_length=4 seq_position=4
+
+<region> sample=F-1.wav key=77 seq_length=4 seq_position=1 
+<region> sample=F-2.wav key=77 seq_length=4 seq_position=2
+<region> sample=F-3.wav key=77 seq_length=4 seq_position=3
+<region> sample=F-4.wav key=77 seq_length=4 seq_position=4
+
+<region> sample=F#-1.wav key=78 seq_length=4 seq_position=1
+<region> sample=F#-2.wav key=78 seq_length=4 seq_position=2
+<region> sample=F#-3.wav key=78 seq_length=4 seq_position=3
+<region> sample=F#-4.wav key=78 seq_length=4 seq_position=4
+
+<region> sample=G-1.wav key=79 seq_length=4 seq_position=1 
+<region> sample=G-2.wav key=79 seq_length=4 seq_position=2
+<region> sample=G-3.wav key=79 seq_length=4 seq_position=3
+<region> sample=G-4.wav key=79 seq_length=4 seq_position=4
+
+<region> sample=G#-1.wav key=80 seq_length=2 seq_position=1
+<region> sample=G#-2.wav key=80 seq_length=2 seq_position=2
+
+<region> sample=A-1.wav key=81 seq_length=4 seq_position=1
+<region> sample=A-2.wav key=81 seq_length=4 seq_position=2
+<region> sample=A-3.wav key=81 seq_length=4 seq_position=3
+<region> sample=A-4.wav key=81 seq_length=4 seq_position=4
+
+<region> sample=A#-1.wav key=82 seq_length=4 seq_position=1
+<region> sample=A#-2.wav key=82 seq_length=4 seq_position=2
+<region> sample=A#-3.wav key=82 seq_length=4 seq_position=3
+<region> sample=A#-4.wav key=82 seq_length=4 seq_position=4
+
+<region> sample=B-1.wav key=83 seq_length=4 seq_position=1
+<region> sample=B-2.wav key=83 seq_length=4 seq_position=2
+<region> sample=B-3.wav key=83 seq_length=4 seq_position=3
+<region> sample=B-4.wav key=83 seq_length=4 seq_position=4
+
+<region> sample=C-1.wav key=84 seq_length=4 seq_position=1
+<region> sample=C-2.wav key=84 seq_length=4 seq_position=2
+<region> sample=C-3.wav key=84 seq_length=4 seq_position=3
+<region> sample=C-4.wav key=84 seq_length=4 seq_position=4
+
+<region> sample=C#-1.wav lokey=85 hikey=89 pitch_keycenter=85 seq_length=4 seq_position=1
+<region> sample=C#-2.wav lokey=85 hikey=89 pitch_keycenter=85 seq_length=4 seq_position=2
+<region> sample=C#-3.wav lokey=85 hikey=89 pitch_keycenter=85 seq_length=4 seq_position=3
+<region> sample=C#-4.wav lokey=85 hikey=89 pitch_keycenter=85 seq_length=4 seq_position=4
+
+//Sola scriptura, Sola fide, Sola gratia, Solo Christo, Soli Deo gloria
